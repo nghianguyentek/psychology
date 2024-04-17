@@ -1,0 +1,1 @@
+- [The Junto Emotion Wheel](https://www.thejuntoinstitute.com/emotion-wheels/)
