@@ -18,12 +18,31 @@ Perception and judgment describe how people prefer to use their minds. They refl
 - Values
 - Motivations
 
+## Preference pairs
+
+- Extraversion (E) and Introversion (I): ways to direct and receive energy
+- Sensing (S) and Intuition (N): ways to take in information
+- Thinking (T) and Feeling (F): ways to decide and come to conclusions
+- Judging (J) and Perceiving (P): ways to approach the outside world
+
 ## Innate vs learned preferences
+
+- Type theory: personality type preferences are innate
+- Type does not dictate behavior
+- With awareness, we can use opposite preferences
+
+
+##
 
 ## Next
 
 - [The 16 MBTI Personality Types](16-types.md#the-16-mbti-personality-types)
 - [Three unique instruments](three-unique-instruments.md#three-unique-instruments)
+
+## Free tests
+
+- [Humanmetrics Inc. (n.d.). *Jung Typology Test™*](http://www.humanmetrics.com/cgi-win/jtypes2.asp)
+- https://www.16personalities.com/free-personality-test
 
 ## Reference
 

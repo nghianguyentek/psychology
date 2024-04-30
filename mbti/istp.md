@@ -1,0 +1,5 @@
+# ISTP
+
+- Independent
+- Adaptive
+- Practical

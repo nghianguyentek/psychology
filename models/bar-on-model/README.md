@@ -1,0 +1,1 @@
+# Bar-On Model of Emotional Intelligence

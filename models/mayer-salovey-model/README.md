@@ -1,0 +1,1 @@
+# Mayer-Salovey Model of Emotional Intelligence

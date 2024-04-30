@@ -26,8 +26,6 @@ Robert Plutchick (1980)
 |    Contempt     |   Disgust+Anger    | Submission  |
 | Aggressiveness  | Anger+Anticipation |     Awe     |
 
-## 
-
 ## Junto Emotion Wheel
 
-![Junto Emotion Wheel](../junto-emotion-wheel.png)
+![Junto Emotion Wheel](junto-emotion-wheel.png)
