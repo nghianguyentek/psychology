@@ -7,6 +7,8 @@ Help people to identify and gain some understanding round:
 
 as seen in normal, healthy behavior.
 
+It also has a role in relationship building (awareness, communication, and planning).
+
 ## Perception and judgment
 
 Perception and judgment describe how people prefer to use their minds. They reflect one's:
