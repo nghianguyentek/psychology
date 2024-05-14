@@ -1,5 +1,9 @@
 # Non Violent Communication
 
+About assertive and empathic communication
+
+## Violent communication
+
 Judgements make our communication "violent". But it's not possible not to make judgements.
 
 Violence communication:
