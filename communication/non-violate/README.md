@@ -15,8 +15,8 @@ Violence communication:
 
 - Observation
 - Feeling
-- Need
-- Request
+- (Identify) Need
+- (Express needs and) Request
 
 ## Observations
 
@@ -34,3 +34,16 @@ Violence, whether verbal or physical, is the result of assuming that our feeling
 inside us but rather by what is going on "out there".
 
 I'm angry because my expectations have not been met.
+
+
+## Nonviolent attitudes
+
+- Self-Connection
+- Honest Expression: reveal our feelings and needs
+- Empathic Presence: listen to others with a silent mind and an open heart
+- Self-Empathy: 
+- Means of Influence: exchange our needs with others
+
+## Reference
+
+- https://www.cnvc.org/about/purpose-of-nvc

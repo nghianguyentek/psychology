@@ -10,3 +10,7 @@ Humility
 
 - Keep a journal
 - Slow down
+
+## ?
+
+- Judgement & emotional expressions
