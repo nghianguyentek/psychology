@@ -19,7 +19,7 @@ We tend to the negativity naturally.
 ### Rewriting
 
 - Self-awareness: triggers (when) + what + why
-- Dispute negative thoughts: find evidences of the contrast
+- Dispute negative thoughts: challenge them by finding evidences of the contrast
 
 ## Reference
 

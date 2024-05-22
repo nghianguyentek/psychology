@@ -38,7 +38,7 @@ Perception and judgment describe how people prefer to use their minds. They refl
 
 ## Next
 
-- [The 16 MBTI Personality Types](16-types.md#the-16-mbti-personality-types)
+- [The 16 MBTI Personality Types](types/README.md#the-16-mbti-personality-types)
 - [Three unique instruments](three-unique-instruments.md#three-unique-instruments)
 
 ## Free tests
