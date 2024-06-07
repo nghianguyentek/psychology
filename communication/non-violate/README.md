@@ -2,6 +2,8 @@
 
 About assertive and empathic communication
 
+"The language of needs"
+
 ## Violent communication
 
 Judgements make our communication "violent". But it's not possible not to make judgements.
