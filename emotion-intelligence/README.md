@@ -1,5 +1,7 @@
 # Emotional Intelligence (EI)
 
+"EI is a basic tool that is the key to professional success." - Mosaic
+
 Emotional intelligence is the ability to deal with emotions effectively. It includes a set of competencies in:
 
 - Aware oneself

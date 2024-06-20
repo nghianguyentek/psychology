@@ -1,0 +1,8 @@
+# Types of Corrective Feedback
+
+- Explicit correction: clearly indicating that the student's utterance was incorrect, the teacher provides the correct form
+- Recast: without directly indicating that the student's utterance was incorrect, the teacher implicitly reformulates the student's error, or provides the correction
+- Clarification request: by using the phrases like "Excuse me?" or "I don't understand," the teacher indicates that the message has not been understood or that the student's utterance contained some kind of mistake and that a repetition or a reformulation is required
+- Metalinguistic clues: without providing the correct form, the teacher poses questions or provides comments or information related to the formation of the student's utterance (e.g., "Do we say it like that?", "That's not how you say it in ...", and "Is it feminine?")
+- Elicitation: the teacher directly elicits the correct form from the student by asking questions (e.g., "How do we say that in ...?"), by pausing to allow the student to complete the teacher's utterance (e.g., "It's a ...") or by asking students to reformulate the utterance (e.g., "Say that again."). Elicitation questions differ from questions that are defined as metalinguistic clues in that they require more than a yes/no response.
+- Repetition: the teacher repeats the student's error and adjusts intonation to draw student's attention to it

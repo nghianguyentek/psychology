@@ -18,3 +18,26 @@ Feedback is "a process in which the factors that produce a result are themselves
 ## Objectives
 
 - Feedback for development
+
+## Impacts
+
+- The level of the relatedness between provider and recipient
+
+## Tips
+
+### Giving
+
+- Formative over summative
+- Supportive
+- Specific issues, not guilt or blame
+- Honest
+- Observe recipient's reactions (give to take)
+- Together resolve the issues if any
+
+### Receiving
+
+- Open
+- Honest
+- Discuss
+- Ask for help
+- Thank

@@ -4,6 +4,8 @@ Corrective feedback is information provided to an individual or group about how 
 
 ## Methods of feedback
 
-- Consultative
-- 360 degree
 - One-on-One
+- Intra-group
+- Group-to-group
+- Consultative
+- 360-degree

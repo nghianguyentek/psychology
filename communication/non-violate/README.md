@@ -1,8 +1,7 @@
 # Non Violent Communication
 
-About assertive and empathic communication
-
-"The language of needs"
+- About assertive and empathic communication
+- "The language of needs"
 
 ## Violent communication
 

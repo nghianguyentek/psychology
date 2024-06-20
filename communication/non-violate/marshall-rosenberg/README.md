@@ -1,16 +1,25 @@
 # Marshall Rosenberg
 
-natural desired to give
+(1934-2015)
 
-violence enjoyable
+Founder and Director of Educational Services for the Center of Nonviolent Communication (CNVC)
 
-create a pain on top another pain
+- "At the core of all anger is a need that is not being fulfilled."
+- "Violences creates violences"
+- "Making life wonderful" instead of "Who's right?" game
 
-Express your gratitude: What they did and how wonderful we felt about it and how we would use it.
+## "Who's right?" game
 
-Stay in your heart and connect to your needs
+"Punishment" & "reward"
 
-Violences creates violences.
+- Violence enjoyable
+- Create a pain on top another pain
+
+## Facts
+
+- Natural desired to give
+- Express your gratitude: What they did and how wonderful we felt about it and how we would use it.
+- Stay in your heart and connect to your needs
 
 ## Language of needs
 
