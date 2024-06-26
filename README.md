@@ -1,5 +1,7 @@
 # Psychology
 
+Psyche 
+
 The scientific study of the mind and behaviour.
 
 ## Characteristics

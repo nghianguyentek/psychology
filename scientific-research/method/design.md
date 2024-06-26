@@ -22,7 +22,7 @@ Peer-reviewed journal articles
 ## Human participants
 
 - Sign the informed consent form (under 18, parents/legal guardians )
-- Must be approved by Institutional review board (IRB)
+- Must be approved by Institutional Review Board (IRB)
 - If having deception, must provide debriefing
 
 ## Animal

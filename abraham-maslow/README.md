@@ -11,6 +11,6 @@ An American psychologist considered one of the most well-known proponents of hum
 
 ## Achievements
 
-- Hierarchy of needs
+- Hierarchy of human needs in motivating behaviour
 
 ![img.png](hierarchy-of-needs.png)

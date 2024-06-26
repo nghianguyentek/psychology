@@ -15,5 +15,6 @@ Confounding variable
 ## Disadvantages
 
 - Unable to establish causality (correlation does not indicate causation)
-- Illusory (false) correlations: no relationship
+- Illusory (false) correlations (type I error): no relationship
+- Type II error: relationship actually exists but was not recognized
 - Confirmation bias: look for evidence to support hunch
