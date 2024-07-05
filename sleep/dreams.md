@@ -1,5 +1,7 @@
 # Dreams
 
+REM stage
+
 - Manifest
 - Latent
 - Collective unconscious (Carl Jung)

@@ -2,6 +2,8 @@
 
 Genetics is a term that refers to the study of genes and their role in inheritance - in other words, the way that certain traits or conditions are passed down from one generation to another.
 
+The result physical characteristics (called the phenotype) are determined by the interaction of genetic material (called the genotype) at first. However, the final expression of individual inherited physical characteristics are influenced by both generic and environment.
+
 ## Theories of genes-environment interactions 
 
 - Range of reaction: genes set definite limits on potential, and environment determines how much of that potential is achieved.
@@ -10,6 +12,12 @@ Genetics is a term that refers to the study of genes and their role in inheritan
 
 ![img.png](epigenetic-01.png)
 
+
+## Gene variations
+
+Allel - a specific version of a gene
+
+- Mutation: a sudden, permanent change in a gene
 
 ## References
 
