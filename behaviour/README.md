@@ -26,3 +26,20 @@
 - Antecedent
 - Behaviour
 - Consequence
+
+## Applied Behaviour Analysis (ABA)
+
+- Children with Autism and other developmental disabilities
+- Animal training
+- Gerontology
+- Organisational behavioral management
+- Counseling
+- Exercise
+- Language acquisition
+- Substance abuse
+- Education
+- ...
+
+## Reference
+
+- https://www.apa.org/about/policy/physical-discipline-children

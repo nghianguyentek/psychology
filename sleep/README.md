@@ -50,3 +50,4 @@ Unknown exactly - just benefits of adequate amounts of sleep and risks associate
 - https://www.apa.org/news/press/releases/2023/12/sleep-deprivation-anxious
 - https://www.apa.org/pubs/search?query=sleep+deprivation&Classification=Sleep&sort=Relevance
 - https://www.prisma-statement.org/
+- https://www.mdpi.com/2227-9032/7/1/1
