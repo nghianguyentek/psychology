@@ -4,6 +4,10 @@
 
 A score earned on a test designed to measure intelligence
 
+## DSM-5
+
+The diagnosis code of Intellectual Disability
+
 ## History
 
 - Late 1800s: Sir Francis Galton developed the first board test of intelligence

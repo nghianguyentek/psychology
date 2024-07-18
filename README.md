@@ -34,4 +34,8 @@ Social science
 ## Major subdivisions
 
 - Biopsychology
-- 
+
+
+## Journals
+
+- https://www.sciencedirect.com/journal/current-opinion-in-psychology/issues
