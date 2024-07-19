@@ -4,7 +4,7 @@ Believed unlimited
 
 General accepted as a semantic (associative and hierarchical) network of concepts
 
-how often two concepts have been associated is the strength of the link between them
+How often two concepts have been associated is the strength of the link between them
 
 Differ in each person
 
@@ -17,22 +17,22 @@ Differ in each person
 
 ### Explicit LTM
 
-consciously stored
+Consciously stored
 
 - Episodic memory
 - Semantic memory
 
 #### Episodic memory
 
-information about events we have personally experienced
+Information about events we have personally experienced
 
 #### Semantic memory
 
-knowledge about words, concepts, language-based, and facts
+Knowledge about words, concepts, language-based, and facts
 
 ### Implicit LTM
 
-not apart of our consciousness
+Not apart of our consciousness
 
 - Procedural memory
 - Priming memory
@@ -46,10 +46,10 @@ Just do without thinking
 
 #### Priming memory
 
-stimulus exposure affects responses to a later stimulus
+Stimulus exposure affects responses to a later stimulus
 
 #### Emotional conditioning memory
 
-classical conditioned emotion responses
+Classical conditioned emotion responses
 
-cannot be reported or recalled but can be associated with different stimuli
+Cannot be reported or recalled but can be associated with different stimuli

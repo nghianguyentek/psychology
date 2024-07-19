@@ -4,7 +4,7 @@
 
 - Sensory memory
 - Short-term memory
-- Long-term memory
+- [Long-term memory](long-term.md)
 
 ## Sensory memory
 
