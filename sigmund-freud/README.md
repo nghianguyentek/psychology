@@ -7,6 +7,7 @@
 An Austrian neurologist
 
 - [Psychoanalytic theory](psychoanalytic-theory.md)
+- [Psychosexual theory of development]()
 
 ## Books
 
