@@ -1,6 +1,6 @@
 # Psychosocial Theory of Development
 
-A modified version of [Sigmund Freud's Psychosexual Theory of Development](../sigmund-freud/psychosexual-theory-of-development.md)
+A modified version of [Sigmund Freud's Psychosexual Theory of Development](../sigmund-freud/psychosexual-theory.md)
 
 Continuous development (lifespan)
 
