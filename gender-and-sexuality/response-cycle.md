@@ -12,6 +12,9 @@
 ## Plateau phase
 
 - Vagina swells further
+- Blood flow to the labia minora increases
+- Penis becomes fully erect and may exhibit pre-ejaculatory fluid
+- Increase muscle tone
 
 ## Orgasm phase
 
@@ -20,3 +23,10 @@
 ## Resolution
 
 - Rapidly return to an unaroused state
+
+## Refractory period
+
+the duration from the last orgasm phase to the next one
+
+- Vary from individual several minutes to a day
+- Age influence

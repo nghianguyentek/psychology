@@ -1,6 +1,8 @@
 # Cognitive Theory of Development
 
-Focused on cognitive growth
+[*Jane Piaget (1896-1980)*](../README.md)
+
+Focused on children's cognitive growth
 
 Discontinuous development
 
@@ -19,9 +21,5 @@ Comparing new with established
 
 Change based on the new
 
-## Stages
+- [4 stages of development](stages.md)
 
-- Sensorimotor: 0-2 ages
-- Preoperational: 2-6 ages
-- Concrete operational: 7-11 ages
-- Formal operational: 12+ ages

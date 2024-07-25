@@ -2,7 +2,7 @@
 
 ## Continuous vs. discontinuous developments
 
-![](continueous-vs-discontinuous.png)
+![](continuous-vs-discontinuous.png)
 
 ### Continuous development
 

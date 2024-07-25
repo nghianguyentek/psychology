@@ -6,7 +6,7 @@ The ability to engage to sexual behaviour and sexual motivation are dissociative
 
 ## Physiological
 
-![img.png](img.png)
+![](physiological-elements.png)
 
 - Medial preoptic area: the ability to engage to sexual behaviour
 - Nucleus accumbens & amygdala: important for sexual motivation
@@ -20,7 +20,8 @@ The ability to engage to sexual behaviour and sexual motivation are dissociative
 
 ### Kinsey scale
 
+AKA ***Heterosexual-Homosexual Rating Scale***
+
 Categorise one's sexual orientation: emotional, romantic, and erotic attractions to other people and no other.
 
-
-
+![](kinsey-scale.png)

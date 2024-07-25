@@ -2,11 +2,13 @@
 
 Personality develops during early childhood.
 
+Childhood experiences shape our personalities and behaviour as adults.
+
 Discontinuous development
 
 Pass through a series of stages
 
-Lack proper nurturance and parenting during a stage -> stuck in that stage
+Lack proper nurture and parenting during a stage -> stuck in that stage
 
 ## Stages of development
 
