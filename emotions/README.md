@@ -21,6 +21,7 @@ Refers to a prolonged, less intense, affective state that does not occur in resp
 - [James-Lange theory](theories/james-lange.md)
 - [Cannon-Bard theory](theories/cannon-bard.md)
 - [Schachter-Singer two-factor theory](theories/schachter-singer.md)
+- [Lazarus' cognitive-mediational theory](theories/lazarus.md)
 
 ## Plutchick's Model of Emotions
 

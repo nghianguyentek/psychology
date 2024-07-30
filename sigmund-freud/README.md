@@ -4,10 +4,10 @@
 
 ![img.png](sigmund-freud-01.png)
 
-An Austrian neurologist
+An Austrian neurologist, a medical doctor
 
 - [Psychoanalytic theory](psychoanalytic-theory.md)
-- [Psychosexual theory of development]()
+- [Psychosexual theory of development](psychosexual-theory/README.md)
 
 ## Books
 

@@ -6,6 +6,10 @@ A German scientist considered as the first psychologist and credited as one of t
 
 ![img.png](wilhelm-wundt-01.png)
 
+## Achievements
+
+- [Axes of personality traits](personality-traits-axes.md)
+
 ## Books
 
 - Principles of Physiological Psychology (1873)
