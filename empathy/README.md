@@ -1,6 +1,6 @@
 # Empathy
 
-Understand others
+The capacity to understand another person's perspective, to feel what they feel.
 
 - Help develop others
 - Challenge unfair things
